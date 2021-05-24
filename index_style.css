@@ -42,9 +42,20 @@ div#body{
     margin: auto;
     width: 960px;
     height: 1000px;
-    background-color: rgb(112, 187, 236);
+    background-color: rgb(182, 224, 252);
+    text-align: center;
 }
 
 #colorbotoncito{
     background-color: rgba(173, 216, 230, 0.801);
+}
+
+#escuelatitulo{
+    text-shadow: rgba(28, 35, 41, 0.63) 5px 5px 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+#cerdillassubtitulo{
+    padding: 15px;
 }
